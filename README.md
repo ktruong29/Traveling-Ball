@@ -36,8 +36,8 @@ terminates.
 
 ## Prerequisites
 ---
-* A virtual machine
-* Install mcs
+* A virtual machine.
+* Install mcs.
 
 ## Instruction on how to run the program
 ---
